@@ -1,8 +1,8 @@
 {
-    "url": "https://jumpy-floor.surge.sh/test.yaml",
+    "url": "https://raw.githubusercontent.com/amit-laish/poc/main/swagger-xss.yaml",
     "urls": [
         {
-            "url": "https://jumpy-floor.surge.sh/test.yaml",
+            "url": "https://raw.githubusercontent.com/amit-laish/poc/main/swagger-xss.yaml",
             "name": "Foo"
         }
     ]
